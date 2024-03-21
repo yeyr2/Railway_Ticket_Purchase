@@ -1,7 +1,7 @@
 import lombok.SneakyThrows;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;
-import org.yey2.as12306.ticketService.toolkit.DateUtil;
+import org.yeyr2.as12306.ticketService.toolkit.DateUtil;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

@@ -1,7 +1,7 @@
 import org.junit.jupiter.api.Test;
 
-import static org.yey2.as12306.ticketService.service.handler.ticket.select.SeatSelection.adjacent;
-import static org.yey2.as12306.ticketService.service.handler.ticket.select.SeatSelection.nonAdjacent;
+import static org.yeyr2.as12306.ticketService.service.handler.ticket.select.SeatSelection.adjacent;
+import static org.yeyr2.as12306.ticketService.service.handler.ticket.select.SeatSelection.nonAdjacent;
 
 public class SeatSelectionTest {
     @Test
